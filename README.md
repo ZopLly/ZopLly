@@ -1,5 +1,15 @@
 ## Hi there 👋
+## ZopLly's github
+I'm a cybersecurity student, linux worker, trying to get better at network managment and c programming
+My projects: 
+URL Review (https://github.com/ZopLly/urlreview-embedding) — cli category checking. has written on C
+DevOps Deployment Dashboard (https://github.com/ZopLly/devoposintroduction) — учебный проект, в котором я настроил проверку и сборку сайта через GitHub Actions, публикацию Docker-образа и запуск через Docker Compose. project where i made build and deployment of a site throgh github actions, publishing docker image and launch through docker compose.
+VolleyBot (https://github.com/ZopLly/volleybot) — Telegram-bot for payments and schedule.
 
+Learning projects: 
+
+bash labs (https://github.com/ZopLly/itlabs) 
+tiling window manager config (https://github.com/ZopLly/dotfiles) - config for tiling manager Niri, with such addons as quickshell, theme chooser, module making on desktop etc.
 <!--
 **ZopLly/ZopLly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
